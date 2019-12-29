@@ -3,7 +3,7 @@ body {
 }
 
 #pawn {
-  background-image: url("../../res/images/pawn.jpg");
+  background-image: url("../../res/images/pawn/pawn.jpg");
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
