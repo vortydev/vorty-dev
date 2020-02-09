@@ -36,17 +36,7 @@ a:hover {
   font-weight: bold;
 }
 
-.center {
+div.center {
+  margin: 0 auto;
   text-align: center;
-}
-
-.right {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-}
-
-.right > img {
-  display: block;
-  max-width: 100%;
 }

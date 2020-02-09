@@ -3,7 +3,9 @@
   width: 235px;
 }
 
-#projectsentinel {
+.projectsentinel {
   margin: 5px;
-  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
