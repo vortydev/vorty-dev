@@ -36,6 +36,11 @@ a:hover {
   font-weight: bold;
 }
 
+.hidden {
+  color: #000;
+  list-style-type: none;
+}
+
 div.center {
   margin: 0 auto;
   text-align: center;
