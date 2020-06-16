@@ -43,6 +43,7 @@ a:hover {
   text-align: center;
   width: 20%;
   padding: 2%;
+  border-radius: 5px;
 }
 
 .active {
