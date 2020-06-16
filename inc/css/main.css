@@ -32,8 +32,22 @@ a:hover {
   margin-right: 0.5em;
 } */
 
-.bold {
-  font-weight: bold;
+.navbar {
+  overflow: hidden;
+  padding: 20px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  width: 20%;
+  padding: 2%;
+}
+
+.active {
+  background-color: #f00;
+  color: #000;
 }
 
 .hidden {
