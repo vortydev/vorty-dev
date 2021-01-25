@@ -42,11 +42,11 @@ a:hover.active {
 }
 
 .navbar a {
-  float: left;
+  float:left;
   display: block;
   text-align: center;
-  width: 20%;
-  padding: 2%;
+  width: 18%;
+  padding: 1%;
   border-radius: 5px;
 }
 
